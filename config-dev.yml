@@ -1,2 +1,2 @@
-config-dev
-niude
+config:
+  info: config-dev.yml
